@@ -1,0 +1,7 @@
+{
+  "modelVersion": "5.0.0",
+  "name": "steelstorm",
+  "version": "1.0.0",
+  "description": "RA2-style RTS for HarmonyOS",
+  "dependencies": {}
+}

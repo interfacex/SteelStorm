@@ -1,0 +1,7 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "钢铁风暴游戏模块" },
+    { "name": "ability_desc", "value": "RA2风格即时战略游戏" },
+    { "name": "entry_label", "value": "钢铁风暴" }
+  ]
+}
